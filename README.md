@@ -27,7 +27,7 @@ Readme [English](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/R
 ## 相关
 #### 关于作者
 作者123ABCDF11345 QQ2542594900 
-[千度智能官网](qianduzhineng.github.io)
+[千度智能官网](https://www.qianduzhineng.github.io)
 #### 鸣谢
 - 陈艳梅 老师
 - 袁霞 老师
