@@ -1,9 +1,4 @@
----
-title: 千度网盘
-tags: 网盘,智能教育,数据分享
-renderNumberedHeading: true
-grammar_cjkRuby: true
----
+# 千度网盘
 
 Readme [English](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
