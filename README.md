@@ -2,7 +2,7 @@
 
 Readme [English](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
-![](https://img.shields.io/badge/build-123ABCDF11345-orange)![](https://img.shields.io/badge/develop-123ABCDF11345-green)![](https://img.shields.io/badge/debug-123ABCDF11345-red)![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)![](https://img.shields.io/badge/release-V1.1.3-red)![](https://img.shields.io/badge/language-Python-yellow)
+![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V1.1.3-red)  ![](https://img.shields.io/badge/language-Python-yellow)
 
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
@@ -16,7 +16,7 @@ Readme [English](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/R
   本项目不定时更新，保证至少3月一次安全性更新
 ## 下载，编译和运行
 #### 下载
-[下载](https://github.com/qiandu-smart/QianDuNetworkDisk/releases)
+[下载](https://github.com/qiandu-smart/QianDuNetworkDisk/releases/latest)
 #### 编译
 程序已提供二进制包，现阶段不考虑开源
 #### 运行
@@ -32,7 +32,7 @@ Readme [English](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/R
 - 陈艳梅 老师
 - 袁霞 老师
 - 杨军 老师
- - 憨憨王紫璇
+- 我家王紫璇
   #### 申明
 本项目受产品迭代影响，可能破坏您在云端存储的文件，本项目不对您的数据负有或承担任何责任
 本项目所有权归123ABCDF11345所有
