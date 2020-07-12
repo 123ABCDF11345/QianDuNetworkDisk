@@ -33,7 +33,7 @@ Readme [English](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/R
 - 袁霞 老师
 - 杨军 老师
 - 我家紫璇
-  #### 申明
+#### 申明
 本项目受产品迭代影响，可能破坏您在云端存储的文件，本项目不对您的数据负有或承担任何责任
 本项目所有权归123ABCDF11345所有
  
