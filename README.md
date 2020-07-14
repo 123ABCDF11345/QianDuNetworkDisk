@@ -3,7 +3,7 @@
 Readme [English](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
 ![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V1.2.1-red)  ![](https://img.shields.io/badge/language-Python-yellow)
-#### 紧急通知：经排查，2020年7月13日检查更新持续错误及公告栏消失是由于Github持续500错误，网页API受到影响，时间为Jul 13, 04:06 UTC 至 Jul13,08:31 UTC 对此，我们深表歉意
+#### 紧急通知：经排查，2020年7月13日检查更新持续错误及公告栏消失是由于Github持续500错误，网页API受到影响，时间为Jul 13, 04:06 UTC 至 Jul13,08:31 UTC 目前，各功能已恢复正常。对此，我们深表歉意
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
 ## 特点
