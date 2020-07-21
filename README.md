@@ -1,8 +1,8 @@
 # 千度网盘
 
-Readme [English](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
+Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
-![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V1.3.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)
+![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V2.2.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)
 #### 紧急通知：经排查，2020年7月13日检查更新持续错误及公告栏消失是由于Github持续500错误，网页API受到影响，时间为Jul 13, 04:06 UTC 至 Jul13,08:31 UTC 目前，各功能已恢复正常。对此，我们深表歉意
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
@@ -17,6 +17,7 @@ Readme [English](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/R
 ## 下载，编译和运行
 #### 下载
 [下载](https://github.com/qiandu-smart/QianDuNetworkDisk/releases/latest)
+请验证各版本MD5码确定文件完整性！
 #### 编译
 程序已提供二进制包，现阶段不考虑开源
 #### 运行
@@ -44,10 +45,7 @@ A：服务器不定时维护，请耐心等待约2小时，如24小时后还未�
 - 杨军 老师
 - 王紫璇 同学
 #### 捐助
-- 微信：暂无
-- 支付宝：暂无
 - QQ:2542594900
-- 银联对公：11090 73168 10601 00027 88901 腾讯云计算（北京）有限责任公司 收款银行：招商银行北京上地支行 请在汇款后30分钟内将您银行预留姓名告知我，将其录入腾讯对公账户
 #### 申明
 本项目受产品迭代影响，可能破坏您在云端存储的文件，本项目不对您的数据负有或承担任何责任  
 本项目所有权归123ABCDF11345所有
