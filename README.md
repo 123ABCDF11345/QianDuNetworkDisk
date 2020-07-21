@@ -26,6 +26,10 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 - 互联网连接  
   
 双击exe运行即可
+#### 程序截屏
+![](https://qianduzhineng.github.io/图片/screenshot1.JPG)
+![](https://qianduzhineng.github.io/图片/screenshot2.JPG)
+![](https://qianduzhineng.github.io/图片/screenshot3.JPG)
 ## 相关
 #### 常见问题
 Q：网盘是否限速?    
