@@ -29,12 +29,12 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
   
 -  Windows:双击exe运行即可
 -  Linux:
-    """
+    ```
     ①(sudo) chmod 4755 QianDuNetwork_*.*.*.Linux.***
-    """
-    """
+    ```
+    ```
     ②(sudo)QianDuNetwork_*.*.*.Linux.***
-    """
+    ```
 #### 程序截屏
 ![](https://98n66e.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot1.JPG)
 ![](https://98n66e.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot2.JPG)
@@ -46,7 +46,7 @@ A：网盘完全不限速，目前使用单线程下载，在线服务部署在�
 Q：如何注册？    
 A：受运营成本影响，网盘目前仅面向部分用户，授权代码内部发放，如有疑问请联系我们  
 Q：网盘是否存在其他方面的限制？    
-A：受运营成本影响，网盘限制上传大于1GB的视频文件（mp4、m3u8，mkv，wmv等）  
+A：受运营成本影响，网盘限制上传大于1.5GB的文件
 Q：突然无法使用网盘怎么办？  
 A：服务器不定时维护，请耐心等待约2小时，如24小时后还未恢复服务，请联系我们   
 #### 关于作者
