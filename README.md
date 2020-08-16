@@ -2,8 +2,8 @@
 
 Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
-![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V2.2.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)
-#### 通知：经排查，2020年7月13日检查更新持续错误及公告栏消失是由于Github持续500错误，网页API受到影响，时间为Jul 13, 04:06 UTC 至 Jul13,08:31 UTC 目前，各功能已恢复正常。对此，我们深表歉意
+![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V2.3.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)
+#### 通知：服务器将于2020年8月20日-2020年8月21日停机检修，即时将无法使用服务，敬请谅解
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
 ## 特点
@@ -11,7 +11,7 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 - GUI界面 交互友好
 - 多地CDN 快速访问
 - Python语言 迭代稳定
-- 多平台支持（尚未开始）
+- 多平台支持
  ## 研发进度
   本项目不定时更新，保证至少3月一次安全性更新
 ## 下载，编译和运行
@@ -19,13 +19,22 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 [下载](https://github.com/qiandu-smart/QianDuNetworkDisk/releases/latest)
 请验证各版本MD5码确定文件完整性！
 #### 编译
-程序已提供二进制包，现阶段不考虑开源
+环境：
+- Linux Arm32:树莓派4B Raspberry Pi OS 32位
+- Linux x64:Ubuntu 20.04 LTS
+- Windows32:Windows 10 20H4 x64
 #### 运行
-- .NET 4.3+（建议）
 - Python3.7+（建议）
 - 互联网连接  
   
-双击exe运行即可
+-  Windows:双击exe运行即可
+-  Linux:
+    """
+    ①(sudo) chmod 4755 QianDuNetwork_*.*.*.Linux.***
+    """
+    """
+    ②(sudo)QianDuNetwork_*.*.*.Linux.***
+    """
 #### 程序截屏
 ![](https://98n66e.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot1.JPG)
 ![](https://98n66e.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot2.JPG)
