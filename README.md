@@ -3,7 +3,6 @@
 Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
 ![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V2.3.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)
-#### 通知：服务器将于2020年8月20日-2020年8月21日停机检修，即时将无法使用服务，敬请谅解
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
 ## 特点
@@ -22,7 +21,7 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 环境：
 - Linux Arm32:树莓派4B Raspberry Pi OS 32位
 - Linux x64:Ubuntu 20.04 LTS
-- Windows32:Windows 10 20H4 x64
+- Windows64:Windows 10 20H4 x64
 #### 运行
 - Python3.7+（建议）
 - 互联网连接  
