@@ -5,13 +5,14 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 ![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V2.3.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
+- 本项目使用AGPL-3.0许可证，您任何与许可证许可范围不符的行为都可能遭到法律允许范围内最大程度的追责！
 ## 特点
 - 云端服务 高可用性
 - GUI界面 交互友好
 - 多地CDN 快速访问
 - Python语言 迭代稳定
 - 多平台支持
- ## 研发进度
+## 研发进度
   本项目不定时更新，保证至少3月一次安全性更新
 ## 下载，编译和运行
 #### 下载
