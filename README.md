@@ -5,7 +5,7 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 ![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V2.3.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
-- 本项目使用AGPL-3.0许可证，您任何与许可证许可范围不符的行为都可能遭到法律允许范围内最大程度的追责！
+- 本项目服务端开源脚本使用AGPL-3.0许可证，您任何与许可证许可范围不符的行为都可能遭到法律允许范围内最大程度的追责！
 ## 特点
 - 云端服务 高可用性
 - GUI界面 交互友好
@@ -36,9 +36,9 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
     ②(sudo)QianDuNetwork_*.*.*.Linux.***
     ```
 #### 程序截屏
-![](https://98n66e.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot1.JPG)
-![](https://98n66e.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot2.JPG)
-![](https://98n66e.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot3.JPG)
+![](https://ye4n50.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot1.JPG)
+![](https://ye4n50.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot2.JPG)
+![](https://ye4n50.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot3.JPG)
 ## 相关
 #### 常见问题
 Q：网盘是否限速?    
