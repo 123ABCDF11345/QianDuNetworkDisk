@@ -2,9 +2,9 @@
 
 Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
-![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V2.3.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)   ![](https://img.shields.io/badge/Pre_release-V3.3.0_Bate2-red)
+![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V3.0.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)   ![](https://img.shields.io/badge/Pre_release-Coming)
 
-### 本项目自2020年8月30日起暂停功能性更新，恢复时间待定，期间网盘服务器和存储模块仍将继续运行
+### 本项目自2020年10月11日起暂停功能性更新，恢复时间待定，期间网盘服务器和存储模块仍将继续运行
 - Say Hello ,Then Say Goodbye
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
@@ -21,8 +21,8 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 [下载](https://github.com/qiandu-smart/QianDuNetworkDisk/releases/latest)
 #### 编译
 环境：
-- Linux Arm32:树莓派4B Raspberry Pi OS 32位
-- Linux x64:Ubuntu 20.04 LTS
+- Linux Arm64:树莓派4B Debian 64位
+- Linux x64:Ubuntu 20.04 LTS(On Wsl
 - Windows64:Windows 10 20H4 x64
 #### 运行
 - Python3.7+（建议）
