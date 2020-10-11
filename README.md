@@ -31,10 +31,10 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 -  Windows:双击exe运行即可
 -  Linux:
     ```
-    ①(sudo) chmod 4755 QianDuNetwork_*.*.*.Linux.***
+    ①(sudo) chmod 755 QianDuNetwork_*.*.*_Linux.***
     ```
     ```
-    ②(sudo)QianDuNetwork_*.*.*.Linux.***
+    ②(sudo)QianDuNetwork_*.*.*_Linux.***
     ```
 #### 程序截屏
 ![](https://ye4n50.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot1.JPG)
