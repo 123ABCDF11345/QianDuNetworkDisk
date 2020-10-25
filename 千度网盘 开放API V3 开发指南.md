@@ -12,7 +12,7 @@
  
 ## 服务
 **服务器主域名：qianduserver.ngrok2.xiaomiqiu.cn**  
-**支持协议：http,https**
+**支持协议：http**
 **稳定性：全年91.7%**
 **全国Ping平均延迟：33.75ms**
 **海外Ping平均延迟：54ms**
@@ -22,7 +22,7 @@
 ##### 请求：
 **请求网址：qianduserver.ngrok2.xiaomiqiu.cn/requestpassword**
 
-**请求方式：Get**
+**请求方式：Post**
 
 ##### 请求数据：
  - user --用户名
@@ -64,11 +64,9 @@
 import requests
 posthash="此处为哈希加密算法，需申请获得"
 data = {"user":"获取的账户名",'password':"获取的密码",'hash':posthash}
-                           qstatus_code=requests.get("http://qianduserver.ngrok2.xiaomiqiu.cn/requestpassword").status_code
-						   
+qstatus_code=requests.get("http://qianduserver.ngrok2.xiaomiqiu.cn/requestpassword").status				   
 if qstatus_code!=200:
       print("登录验证服务器异常")
 else:
-
-res=requests.post(url='http://qianduserver.ngrok2.xiaomiqiu.cn/requestpassword',data=data).json()
+    res=requests.post(url='http://qianduserver.ngrok2.xiaomiqiu.cn/requestpassword',data=data).json()
 ```
