@@ -4,8 +4,6 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 
 ![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V3.0.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)   ![](https://img.shields.io/badge/Pre_release-Coming)
 
-### 由于后端API整改，本项目将于2020年10月25日清空已注册但没有在网盘中上传任何文件的用户数据，如有需要请随意上传一段数据防止账户被删除
-- Say Hello ,Then Say Goodbye
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
 - 本项目服务端开源脚本使用AGPL-3.0许可证，您任何与许可证许可范围不符的行为都可能遭到法律允许范围内最大程度的追责！
