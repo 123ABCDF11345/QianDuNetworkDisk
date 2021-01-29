@@ -1,5 +1,8 @@
-# 千度网盘 开放API V3 开发指南
+# 千度网盘 开放API V1 开发指南
 *通过该指南，您将快速了解并利用千度网盘开放技术*
+
+#### 警告：V1API已经在V3.3.0之后全部停用，我们不保证可用性
+#### Warning:This API Will Not Have Any More Update 
 
 ## 环境
 **示例环境以Python语言为主，理论上也可使用其他语言**
@@ -11,16 +14,16 @@
 **源码已上传并开源，请遵循许可证要求**  
  
 ## 服务
-**服务器主域名：qianduserver.ngrok2.xiaomiqiu.cn**  
-**支持协议：http**
-**稳定性：全年91.7%**
-**全国Ping平均延迟：33.75ms**
-**海外Ping平均延迟：54ms**
+**服务器主域名：net.api.askdream.top**  
+**支持协议：https(强制)**
+**稳定性：全年99.99999%**
+**全国Ping平均延迟：31.9ms**
+**海外Ping平均延迟：113.6ms**
 
 ## API
 #### 登录验证
 ##### 请求：
-**请求网址：qianduserver.ngrok2.xiaomiqiu.cn/requestpassword**
+**请求网址：net.api.askdream.top/requestpassword**
 
 **请求方式：Post**
 
