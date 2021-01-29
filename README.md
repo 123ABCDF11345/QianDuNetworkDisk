@@ -2,7 +2,7 @@
 
 Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
-![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V3.0.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)   ![](https://img.shields.io/badge/Pre_release-Coming)
+![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V3.3.0-red)  ![](https://img.shields.io/badge/language-Python-yellow)   ![](https://img.shields.io/badge/Pre_release-Coming)
 
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
@@ -19,21 +19,10 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 [下载](https://github.com/qiandu-smart/QianDuNetworkDisk/releases/latest)
 #### 编译
 环境：
-- Linux Arm64:树莓派4B Debian 64位
-- Linux x64:Ubuntu 20.04 LTS(On Wsl
 - Windows64:Windows 10 20H4 x64
 #### 运行
-- Python3.7+（建议）
 - 互联网连接  
-  
--  Windows:双击exe运行即可
--  Linux:
-    ```
-    ①(sudo) chmod 755 QianDuNetwork_*.*.*_Linux.***
-    ```
-    ```
-    ②(sudo)QianDuNetwork_*.*.*_Linux.***
-    ```
+
 #### 程序截屏
 ![](https://ye4n50.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot1.JPG)
 ![](https://ye4n50.coding-pages.com/%E5%9B%BE%E7%89%87/screenshot2.JPG)
