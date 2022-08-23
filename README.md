@@ -2,11 +2,10 @@
 
 Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
-![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V3.3.1-red)  ![](https://img.shields.io/badge/language-Python-yellow)   ![](https://img.shields.io/badge/Pre_release-Coming)
+![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V3.5.1-red)  ![](https://img.shields.io/badge/language-Python-yellow)   ![](https://img.shields.io/badge/Pre_release-Coming)
 
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
-- 本项目服务端开源脚本使用AGPL-3.0许可证，您任何与许可证许可范围不符的行为都可能遭到法律允许范围内最大程度的追责！
 ## 特点
 - 云端服务 高可用性
 - GUI界面 交互友好
@@ -17,9 +16,7 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 ## 下载，编译和运行
 #### 下载
 [下载](https://github.com/qiandu-smart/QianDuNetworkDisk/releases/latest)
-#### 编译
-环境：
-- Windows64:Windows 10 20H2 x64
+
 #### 运行
 - 互联网连接  
 
@@ -40,12 +37,6 @@ A：服务器不定时维护，请耐心等待约2小时，如24小时后还未�
 #### 关于作者
 作者123ABCDF11345 邮箱qianduzhineng@163.com
 [千度智能官网](https://qianduzhineng.github.io/)
-#### 鸣谢
-- 陈艳梅 老师
-- 袁霞 老师
-- 杨军 老师
 
-#### 申明
-本项目受产品迭代影响，可能破坏您在云端存储的文件，本项目不对您的数据负有或承担任何责任  
-本项目所有权归123ABCDF11345所有
+
  
