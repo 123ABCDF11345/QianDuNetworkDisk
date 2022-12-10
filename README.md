@@ -2,7 +2,7 @@
 
 Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README_EN.md) 丨[中文](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/master/README.md)
 
-![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V3.5.3-red)  ![](https://img.shields.io/badge/language-Python-yellow)   ![](https://img.shields.io/badge/Pre_release-Coming)
+![](https://img.shields.io/badge/build-123ABCDF11345-orange)  ![](https://img.shields.io/badge/develop-123ABCDF11345-green)  ![](https://img.shields.io/badge/debug-123ABCDF11345-red)  ![](https://img.shields.io/badge/Service%20provider-Tencent%20cloud-brightgreen)  ![](https://img.shields.io/badge/release-V3.5.5-red)  ![](https://img.shields.io/badge/language-Python-yellow)   ![](https://img.shields.io/badge/Pre_release-Coming)
 
 ## 项目介绍
 本项目是基于Python依托腾讯云对象存储开发的GUI PC端网盘
@@ -27,7 +27,7 @@ Readme [English(coming)](https://github.com/qiandu-smart/QianDuNetworkDisk/blob/
 ## 相关
 #### 常见问题
 Q：网盘是否限速?    
-A：网盘完全不限速，目前使用单线程下载，在线服务部署在四川省成都市，具体速度完全取决于您的网络环境    
+A：网盘完全不限速，文件存储服务部署在四川省成都市，其他API服务部署于中国香港。具体速度完全取决于您的网络环境    
 Q：如何注册？    
 A：受运营成本影响，网盘目前仅面向部分用户，授权代码内部发放，如有疑问请联系我们  
 Q：网盘是否存在其他方面的限制？    
